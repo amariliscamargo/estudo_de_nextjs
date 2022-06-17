@@ -91,6 +91,13 @@ Home.module.css
 - Precisamos criar um arquivo 404.js em pages;
 - E a partir dele desenvolvermos os componentes e estilos!
 
+## Inspecionando a build
+
+- Para buildar o projeto para produção utilizamos: npm run build.
+- O next mostra os arquivos que foram gerados;
+- Nos dando detalhes importantes sobre o nosso projeto;
+
+
 
 
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).

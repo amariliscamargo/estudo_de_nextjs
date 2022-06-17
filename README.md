@@ -79,6 +79,12 @@ Home.module.css
 - Onde id seria o dado que é alterado em cada página;
 - Desta maneira temos páginas que são criadas automaticamente, melhor para quando não temos controle de quantas precisaremos;
 
+## Rotas dinãmicas com dados reais
+
+- Para exibir dados nestas rotas vamos precisar utilizar o método getStaticProps;
+- E tambem o getStaticPaths, este vai fazer a criação das páginas dinâmicas em HTML;
+- Agora podemos acessar o objeto com os dados dentro do componente da página
+
 
 
 
@@ -116,3 +122,4 @@ You can check out [the Next.js GitHub repository](https://github.com/vercel/next
 The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
 
 Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+

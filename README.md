@@ -85,6 +85,11 @@ Home.module.css
 - E tambem o getStaticPaths, este vai fazer a criação das páginas dinâmicas em HTML;
 - Agora podemos acessar o objeto com os dados dentro do componente da página
 
+## Página 404 customizada
+
+- Para criar uma página 404 customizada é simples!
+- Precisamos criar um arquivo 404.js em pages;
+- E a partir dele desenvolvermos os componentes e estilos!
 
 
 
